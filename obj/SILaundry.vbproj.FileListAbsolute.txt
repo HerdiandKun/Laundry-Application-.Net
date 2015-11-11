@@ -1,0 +1,185 @@
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.Admin.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.Laundry.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.Resources.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.vbproj.GenerateResource.Cache
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.pelanggan.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.tambah_admin.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.pengambilan.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\ResolveAssemblyReference.cache
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.Admin.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.Laundry.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.Resources.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.pelanggan.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.pengambilan.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.tambah_admin.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.vbproj.GenerateResource.Cache
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.MenuUtama.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.ownerlogin.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.EditAdmin.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.lihatpelanggan.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.rptPengambilan.rpt
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.CrystalReport1.rpt
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.cetakstruk.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.ReportPelanggan.rpt
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.LaporanMemper.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.LaporanAdmin.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.ReportAdmin.rpt
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.LaporanPengambilan.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.CetakLaporanTransaksi.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.CR_TransaksiMember.rpt
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.CetakLaporanMember.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.exe.manifest
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.application
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.exe
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.pdb
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.xml
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.exe.manifest
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.application
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.exe
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.xml
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.pdb
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.CR_LaporanNonMember.rpt
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.LaporanTransaksiMember.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Debug\SILaundry.laporantransaksinonmember.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\bin\Release\FenuZ Laundry.exe.manifest
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\bin\Release\FenuZ Laundry.application
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\bin\Release\FenuZ Laundry.exe
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\bin\Release\FenuZ Laundry.pdb
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\bin\Release\FenuZ Laundry.xml
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.CrystalReport1.rpt
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.CR_LaporanNonMember.rpt
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.CR_TransaksiMember.rpt
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.ReportAdmin.rpt
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.ReportPelanggan.rpt
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.rptPengambilan.rpt
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.CetakLaporanMember.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.CetakLaporanTransaksi.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.LaporanAdmin.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.LaporanMemper.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.LaporanTransaksiMember.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.laporantransaksinonmember.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.EditAdmin.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.LaporanPengambilan.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.lihatpelanggan.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.MenuUtama.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.ownerlogin.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\SILaundry.cetakstruk.resources
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\FenuZ Laundry.exe.manifest
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\FenuZ Laundry.application
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\FenuZ Laundry.exe
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\FenuZ Laundry.xml
+C:\Users\HerdiandKun\Documents\Visual Studio 2005\Projects\Herdiyan_J3C112167\SILaundry\SILaundry\obj\Release\FenuZ Laundry.pdb
+D:\New folder\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.exe
+D:\New folder\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.xml
+D:\New folder\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.pdb
+D:\New folder\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.exe.manifest
+D:\New folder\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.application
+D:\New folder\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.exe
+D:\New folder\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.pdb
+D:\New folder\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.xml
+D:\New folder\SILaundry\SILaundry\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.CrystalReport1.rpt
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.CR_LaporanNonMember.rpt
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.CR_TransaksiMember.rpt
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.ReportAdmin.rpt
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.ReportPelanggan.rpt
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.rptPengambilan.rpt
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.Admin.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.CetakLaporanMember.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.CetakLaporanTransaksi.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.LaporanAdmin.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.LaporanMemper.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.LaporanTransaksiMember.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.laporantransaksinonmember.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.EditAdmin.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.Laundry.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.LaporanPengambilan.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.lihatpelanggan.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.MenuUtama.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.Resources.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.ownerlogin.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.pelanggan.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.pengambilan.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.cetakstruk.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.tambah_admin.resources
+D:\New folder\SILaundry\SILaundry\obj\Debug\SILaundry.vbproj.GenerateResource.Cache
+D:\New folder\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.exe.manifest
+D:\New folder\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.application
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.exe
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.xml
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.pdb
+D:\Semester 4\VB\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.exe.manifest
+D:\Semester 4\VB\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.application
+D:\Semester 4\VB\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.exe
+D:\Semester 4\VB\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.pdb
+D:\Semester 4\VB\SILaundry\SILaundry\bin\Debug\FenuZ Laundry.xml
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\ResolveAssemblyReference.cache
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.CrystalReport1.rpt
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.CR_LaporanNonMember.rpt
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.CR_TransaksiMember.rpt
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.ReportAdmin.rpt
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.ReportPelanggan.rpt
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.rptPengambilan.rpt
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.Admin.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.CetakLaporanMember.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.CetakLaporanTransaksi.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.LaporanAdmin.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.LaporanMemper.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.LaporanTransaksiMember.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.laporantransaksinonmember.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.EditAdmin.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.Laundry.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.LaporanPengambilan.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.lihatpelanggan.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.MenuUtama.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.Resources.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.ownerlogin.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.pelanggan.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.pengambilan.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.cetakstruk.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.tambah_admin.resources
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\SILaundry.vbproj.GenerateResource.Cache
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.exe.manifest
+D:\Semester 4\VB\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.application
+H:\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.exe
+H:\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.xml
+H:\SILaundry\SILaundry\obj\Debug\FenuZ Laundry.pdb
+D:\Baru\SILaundry\obj\Debug\FenuZ Laundry.exe
+D:\Baru\SILaundry\obj\Debug\FenuZ Laundry.xml
+D:\Baru\SILaundry\obj\Debug\FenuZ Laundry.pdb
+D:\Baru\SILaundry\bin\Debug\FenuZ Laundry.exe.manifest
+D:\Baru\SILaundry\bin\Debug\FenuZ Laundry.application
+D:\Baru\SILaundry\bin\Debug\FenuZ Laundry.exe
+D:\Baru\SILaundry\bin\Debug\FenuZ Laundry.pdb
+D:\Baru\SILaundry\bin\Debug\FenuZ Laundry.xml
+D:\Baru\SILaundry\obj\Debug\ResolveAssemblyReference.cache
+D:\Baru\SILaundry\obj\Debug\SILaundry.CrystalReport1.rpt
+D:\Baru\SILaundry\obj\Debug\SILaundry.CR_LaporanNonMember.rpt
+D:\Baru\SILaundry\obj\Debug\SILaundry.CR_TransaksiMember.rpt
+D:\Baru\SILaundry\obj\Debug\SILaundry.ReportAdmin.rpt
+D:\Baru\SILaundry\obj\Debug\SILaundry.ReportPelanggan.rpt
+D:\Baru\SILaundry\obj\Debug\SILaundry.rptPengambilan.rpt
+D:\Baru\SILaundry\obj\Debug\SILaundry.Admin.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.CetakLaporanMember.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.CetakLaporanTransaksi.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.LaporanAdmin.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.LaporanMemper.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.LaporanTransaksiMember.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.laporantransaksinonmember.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.EditAdmin.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.Laundry.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.LaporanPengambilan.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.lihatpelanggan.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.MenuUtama.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.Resources.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.ownerlogin.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.pelanggan.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.pengambilan.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.cetakstruk.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.tambah_admin.resources
+D:\Baru\SILaundry\obj\Debug\SILaundry.vbproj.GenerateResource.Cache
+D:\Baru\SILaundry\obj\Debug\FenuZ Laundry.exe.manifest
+D:\Baru\SILaundry\obj\Debug\FenuZ Laundry.application
+D:\Baru\SILaundry\obj\Debug\SILaundry.coba.rpt
+D:\Baru\SILaundry\obj\Debug\SILaundry.caba.resources

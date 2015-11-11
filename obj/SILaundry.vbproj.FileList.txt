@@ -1,0 +1,3 @@
+obj\Release\FenuZ Laundry.exe
+obj\Release\FenuZ Laundry.xml
+obj\Release\FenuZ Laundry.pdb

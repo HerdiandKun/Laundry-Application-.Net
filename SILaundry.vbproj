@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{55C81DD9-9328-4A06-AA43-38BEB1095090}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SILaundry.My.MyApplication</StartupObject>
+    <RootNamespace>SILaundry</RootNamespace>
+    <AssemblyName>FenuZ Laundry</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ManifestCertificateThumbprint>AE7BCD29F9C90D93F0DE835609FAF3AE6C12F4BA</ManifestCertificateThumbprint>
+    <ManifestKeyFile>SILaundry_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>green.ico</ApplicationIcon>
+    <PublishUrl>D:\SILaundry\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>id</TargetCulture>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>FenuZ Laundry.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>FenuZ Laundry.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.Designer.vb">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CetakLaporanMember.Designer.vb">
+      <DependentUpon>CetakLaporanMember.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CetakLaporanMember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CetakLaporanTransaksi.Designer.vb">
+      <DependentUpon>CetakLaporanTransaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CetakLaporanTransaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CR_LaporanNonMember.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CR_LaporanNonMember.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CR_TransaksiMember.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CR_TransaksiMember.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanAdmin.Designer.vb">
+      <DependentUpon>LaporanAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanMemper.Designer.vb">
+      <DependentUpon>LaporanMemper.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanMemper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanTransaksiMember.Designer.vb">
+      <DependentUpon>LaporanTransaksiMember.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanTransaksiMember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laporantransaksinonmember.Designer.vb">
+      <DependentUpon>laporantransaksinonmember.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporantransaksinonmember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportAdmin.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportAdmin.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportPelanggan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportPelanggan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPengambilan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPengambilan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EditAdmin.Designer.vb">
+      <DependentUpon>EditAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lihatpelanggan.Designer.vb">
+      <DependentUpon>lihatpelanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lihatpelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuUtama.Designer.vb">
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ownerlogin.Designer.vb">
+      <DependentUpon>ownerlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ownerlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pelaanggan.Designer.vb">
+      <DependentUpon>pelaanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pelaanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pengambilan.Designer.vb">
+      <DependentUpon>pengambilan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pengambilan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="struk.Designer.vb">
+      <DependentUpon>struk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="struk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tambah admin.Designer.vb">
+      <DependentUpon>tambah admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tambah admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Admin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CetakLaporanMember.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CetakLaporanMember.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CetakLaporanTransaksi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CetakLaporanTransaksi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CR_LaporanNonMember.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CR_LaporanNonMember.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CR_TransaksiMember.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CR_TransaksiMember.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanAdmin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LaporanAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanMemper.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LaporanMemper.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanTransaksiMember.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LaporanTransaksiMember.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporantransaksinonmember.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>laporantransaksinonmember.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportAdmin.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportAdmin.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportPelanggan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReportPelanggan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPengambilan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPengambilan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditAdmin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lihatpelanggan.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>lihatpelanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuUtama.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ownerlogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ownerlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pelaanggan.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>pelaanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pengambilan.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>pengambilan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="struk.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>struk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tambah admin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>tambah admin.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="SILaundry_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="BusinessObjects.CrystalReports.NET.2.0">
+      <Visible>False</Visible>
+      <ProductName>Crystal Reports for .NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Data.Access.Components.2.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Data Access Components 2.8</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.1.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="green.ico" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
